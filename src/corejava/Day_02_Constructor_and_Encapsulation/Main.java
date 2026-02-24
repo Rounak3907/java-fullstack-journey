@@ -1,4 +1,4 @@
-package corejava.day02;
+package corejava.Day_02_Constructor_and_Encapsulation;
 class Car {
     private String brand= "unknown";  // This will store the car’s brand
     private int year=0;     // This will store the year of the car
